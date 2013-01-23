@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4408
+
+accelerated-jk accelerates 'j'/'k' mappings' steps while 'j' or 'k' is repeating.
+When the interval of key-repeat interval takes more than 150 ms, the step is
+reset.
